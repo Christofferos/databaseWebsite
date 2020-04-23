@@ -1,2 +1,9 @@
 # databaseWebsite
 This project was my pride and joy during the first year of KTH and into my second year. I have made games, animations, score systems and more. 
+
+<br>
+Here is the link to the website: <br>
+http://foxdrop.000webhostapp.com/
+<br>
+Here is the link to the main repository for this website:<br>
+https://github.com/foxdroporg/FoxdropProject
