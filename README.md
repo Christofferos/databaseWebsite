@@ -3,9 +3,9 @@ This project was my pride and joy during the first year of KTH and into my secon
 
 <br>
 Here is the link to the website: <br>
-foxdrop.me
+https://foxdrop.me
 <br>OR<br>
-foxdropweb.000webhostapp.com
+https://foxdropweb.000webhostapp.com
 <br>
 <br>
 Here is the link to the main repository for this website:<br>
